@@ -6,8 +6,9 @@ https://discord.gg/PHBX53jcSn
 
 ## DEPENDENCIES
 
-[mhacking](https://cdn.discordapp.com/attachments/998202041518264350/1049805955438755880/mhacking.rar)
-[hacking](https://cdn.discordapp.com/attachments/998202041518264350/1049741184626597888/hacking.rar)
+* [qb-core](https://github.com/qbcore-framework/qb-core)
+* [qb-menu](https://github.com/qbcore-framework/qb-menu)
+* [qb-input](https://github.com/qbcore-framework/qb-input)
 
 # QB-CORE ITEMS IMPLENTATION
 
@@ -19,4 +20,4 @@ If you want the script work properly then insert this code in **qb-core\shared\i
 
 ## IMPORTANT
 
-Don't forget to edit **config.lua**
+- Don't forget to edit **config.lua**
