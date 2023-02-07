@@ -20,7 +20,7 @@ If you want the script work properly then insert this code in **qb-core\shared\i
 
 ## Preview
 
-[video](https://streamable.com/jglrsx)
+[Video](https://streamable.com/jglrsx)
 
 ## IMPORTANT
 
