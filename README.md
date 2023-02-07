@@ -18,6 +18,10 @@ If you want the script work properly then insert this code in **qb-core\shared\i
 	["cartracker"] 					 = {["name"] = "cartracker", 			  	  	["label"] = "Car Tracker", 				["weight"] = 1000, 		["type"] = "item", 		["image"] = "cartracker.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true, ["rare"] = false,   ["combinable"] = nil,   ["description"] = "Car tracker for tracking cars."},
 ```
 
+## Preview
+
+![video](https://streamable.com/jglrsx)
+
 ## IMPORTANT
 
 - Don't forget to edit **config.lua**
